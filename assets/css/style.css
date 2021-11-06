@@ -1,3 +1,4 @@
+/* these are the universal stylings of the page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* these are the header styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -86,6 +88,7 @@ main {
     background-color: #2589bd;
 }
 
+/* these are the benefit styles */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
